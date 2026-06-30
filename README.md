@@ -1,3 +1,4 @@
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/6941ec77-1b3a-4712-b5cf-53d61d0f2a02" />
 #Bread Price Analysis
 
 ## Overview
