@@ -28,3 +28,14 @@ This project analyzes Bureau of Labor Statistics (BLS) consumer price data for w
 - Data Visualization
 - Python Programming
 - Version Control with Git
+
+  <img width="826" height="552" alt="image" src="https://github.com/user-attachments/assets/70ba3744-0e27-4c73-a850-1021c828920d" />
+
+  <img width="1089" height="490" alt="image" src="https://github.com/user-attachments/assets/f7833942-5d05-43f5-9da7-525abde8e6ee" />
+
+  <img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/2e152589-39fc-49d8-959d-8a0b40cc7a02" />
+
+  <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/50f2eb71-7aa8-45c6-9bb4-0f827f6a7e31" />
+
+
+
